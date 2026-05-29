@@ -1,0 +1,4 @@
+numpy>=2.0,<3.0
+matplotlib>=3.9,<4.0
+pyqtgraph>=0.13.7,<0.14
+PyQt6>=6.7,<7.0
